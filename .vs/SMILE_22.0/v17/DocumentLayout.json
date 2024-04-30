@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SMILE_22.0\\SMILE_22.0\\SMILE_22.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76557D92-69E9-4AB3-811C-39457240F133}|SMILE_22.0\\SMILE_22.0.csproj|e:\\smile_22.0\\smile_22.0\\smile_22.0\\smile_22.0\\faces_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76557D92-69E9-4AB3-811C-39457240F133}|SMILE_22.0\\SMILE_22.0.csproj|solutionrelative:smile_22.0\\faces_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76557D92-69E9-4AB3-811C-39457240F133}|SMILE_22.0\\SMILE_22.0.csproj|E:\\SMILE_22.0\\SMILE_22.0\\SMILE_22.0\\smile_22.0\\label_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76557D92-69E9-4AB3-811C-39457240F133}|SMILE_22.0\\SMILE_22.0.csproj|solutionrelative:smile_22.0\\label_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Label_Page.cs",
+              "DocumentMoniker": "E:\\SMILE_22.0\\SMILE_22.0\\SMILE_22.0\\SMILE_22.0\\Label_Page.cs",
+              "RelativeDocumentMoniker": "SMILE_22.0\\Label_Page.cs",
+              "ToolTip": "E:\\SMILE_22.0\\SMILE_22.0\\SMILE_22.0\\SMILE_22.0\\Label_Page.cs",
+              "RelativeToolTip": "SMILE_22.0\\Label_Page.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAcwNoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:42:37.85Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Faces_Page.cs",
+              "DocumentMoniker": "E:\\SMILE_22.0\\SMILE_22.0\\SMILE_22.0\\SMILE_22.0\\Faces_Page.cs",
+              "RelativeDocumentMoniker": "SMILE_22.0\\Faces_Page.cs",
+              "ToolTip": "E:\\SMILE_22.0\\SMILE_22.0\\SMILE_22.0\\SMILE_22.0\\Faces_Page.cs",
+              "RelativeToolTip": "SMILE_22.0\\Faces_Page.cs",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAuwAsBAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:42:30.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

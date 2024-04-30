@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMILE_22.0", "SMILE_22.0\SMILE_22.0.csproj", "{76557D92-69E9-4AB3-811C-39457240F133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76557D92-69E9-4AB3-811C-39457240F133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76557D92-69E9-4AB3-811C-39457240F133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76557D92-69E9-4AB3-811C-39457240F133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76557D92-69E9-4AB3-811C-39457240F133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE21A820-0A88-4378-A913-530D6E6A1BFC}
+	EndGlobalSection
+EndGlobal
